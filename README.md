@@ -25,10 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Set up the needed virtual machines (windows computer and ubuntu computer). You can follow the tutorial [here](https://github.com/ChristalLewis/vm-remote-desktop)
-- Step 2
-- Step 3
-- Step 4
+- Set up the needed virtual machines (windows computer and ubuntu computer) and use Remote Desktop to connect to the virtual computer with the windows operating system. You can follow the tutorial [here](https://github.com/ChristalLewis/vm-remote-desktop)
 
 <h2>Actions and Observations</h2>
 
